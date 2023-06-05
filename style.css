@@ -1,0 +1,307 @@
+.topnav .navbar {
+    margin: auto;
+    width: 90%;
+}
+
+.navbar-brand {
+    display: inline-block;
+    font-family: 'Roboto', sans-serif;
+    padding-top: 0.3125rem;
+    padding-bottom: 0.3125rem;
+    margin-right: 1rem;
+    font-size: 1.6rem;
+    font-weight: bolder;
+    white-space: nowrap;
+}
+
+.navbar-dark .navbar-toggler {
+    border: 2px solid rgb(175, 174, 174);
+    color: rgba(105, 4, 4, 0.5);
+    border-radius: 35px;
+}
+
+.fa-pills {
+    color: aliceblue;
+}
+
+.nav-item {
+    font-family: 'Roboto', sans-serif;
+}
+
+.nav-item:hover {
+    font-size: 21px;
+    font-family: 'Roboto', sans-serif;
+    color: black;
+}
+
+.imagesection {
+    width: 100%;
+    min-height: auto;
+}
+
+img {
+    height: 100%;
+    width: 100%;
+    padding: 30px;
+    border-radius: 4px;
+}
+
+h1 {
+    color: aliceblue;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 800;
+    font-size: 50px;
+}
+
+h2 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 750;
+    font-size: 25px;
+}
+
+h3 {
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 750;
+}
+
+h6 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 600;
+    font-size: 13px;
+}
+
+p {
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    font-size: 22px;
+    opacity: 0;
+}
+
+button {
+    background-color: white;
+    border-radius: 3px;
+    color: blue;
+    font-family: 'Roboto', sans-serif;
+    border: 1px solid white;
+}
+
+button:hover {
+    color: black;
+}
+
+.button2 {
+    background-color: white;
+    color: black;
+    font-family: 'Roboto', sans-serif;
+    border: 1px solid white;
+    border-radius: 2px;
+    font-size: 15px;
+}
+
+.button2:hover {
+    background-color: rgb(55, 55, 226);
+    color: white;
+    transition: all 0.4s ease-out;
+    border-radius: 2px;
+}
+
+.button3 {
+    color: blue;
+    border: 1px solid blue;
+    border-radius: 20px;
+    font-size: 13px;
+}
+
+.button4 {
+    border: 1px solid white;
+    color: #fff;
+    /* background-color: #2f74e2; */
+    background-color: transparent;
+}
+
+.cont {
+    margin: auto;
+    width: 90%;
+}
+
+.cst {
+    margin: auto;
+    width: 90%;
+}
+
+.and,
+.six,
+.last {
+    margin: auto;
+    width: 90%;
+    text-align: center;
+}
+
+.p2 {
+    color: grey;
+    font-family: 'Roboto', sans-serif;
+    font-size: 10px;
+}
+
+p3 {
+    color: rgb(0, 0, 0);
+    font-family: 'Roboto', sans-serif;
+    font-size: 12px;
+}
+
+p4 {
+    color: black;
+    font-family: 'Roboto', sans-serif;
+    font-size: 12px;
+}
+
+p5 {
+    color: rgb(255, 255, 255);
+    font-family: 'Roboto', sans-serif;
+    font-size: 12px;
+}
+
+.bg-gray {
+    background-color: rgb(251, 246, 246);
+}
+
+.bg {
+    background-color: rgb(241, 236, 236);
+}
+
+.icon {
+    color: rgb(56, 134, 203);
+}
+
+.icon:hover {
+    color: blue;
+}
+
+.name {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 600;
+    font-size: 12px;
+}
+
+.name2 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 600;
+    font-size: 12px;
+    text-align: center;
+}
+
+.para {
+    font-size: 10px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.card {
+    background: #fff;
+    box-shadow: 0px 0px 0px 0px rgba(216, 203, 203, 0.5);
+}
+
+.card2 {
+    border: 1px solid rgb(220, 220, 220);
+    border-radius: 7px;
+    text-align: center;
+    background: #fff;
+    box-shadow: 0px 0px 0px 0px rgba(216, 203, 203, 0.5);
+}
+
+.card:hover {
+    background: #fff;
+    transition: all 0.4s ease-out;
+    box-shadow: 3px 8px 8px 3px rgba(216, 203, 203, 0.5);
+}
+
+.card2:hover {
+    background: #fff;
+    transition: all 0.3s ease-out;
+    box-shadow: 4px 7px 7px 4px rgba(216, 203, 203, 0.5);
+    opacity: 0.8;
+}
+
+
+/* icon pack */
+
+.icon1 {
+    text-align: center;
+    color: red;
+}
+
+.icon2 {
+    text-align: center;
+    color: blue;
+}
+
+.icon3 {
+    text-align: center;
+    color: blueviolet;
+}
+
+.icon4 {
+    text-align: center;
+    color: chocolate;
+}
+
+.icon5 {
+    text-align: center;
+    color: green;
+}
+
+.icon6 {
+    text-align: center;
+    color: darkmagenta;
+}
+
+
+/* footer */
+
+.footer-col h5 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 600;
+    font-size: 12px;
+}
+
+.footer-col h4 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 600;
+}
+
+.footer-col {
+    text-align: center;
+}
+
+.col {
+    font-family: 'Roboto', sans-serif;
+    font-size: 13px;
+    text-align: left;
+}
+
+.slide-left {
+    animation: slideleft 1s linear forwards;
+}
+
+@keyframes slideleft {
+    0% {
+        transform: translate(100px);
+        opacity: 0;
+    }
+    100% {
+        transform: translate(0px);
+        opacity: 1;
+    }
+}
+
+p.slide-left {
+    animation-delay: 1s;
+}
+
+.buttons.slide-left {
+    animation-delay: 2s;
+}
+
+.buttons {
+    opacity: 0;
+}
